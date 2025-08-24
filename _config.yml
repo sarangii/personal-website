@@ -1,0 +1,9 @@
+title: Aditya Sarangi's Personal Page
+author: Aditya Sarangi
+description: Writings of Aditya Sarangi
+plugins:
+- jekyll-seo-tag
+- jekyll-sitemap
+- jekyll-include-cache
+- jekyll-optional-font-matter
+theme:null
