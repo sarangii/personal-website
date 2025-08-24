@@ -6,4 +6,4 @@ plugins:
 - jekyll-sitemap
 - jekyll-include-cache
 - jekyll-optional-font-matter
-theme:null
+theme: null
